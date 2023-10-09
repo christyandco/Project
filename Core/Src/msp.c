@@ -1,9 +1,3 @@
-/*
- * msp.c
- *
- *  Created on: 02-Jun-2018
- *      Author: kiran
- */
 
 
 #include "stm32f4xx_hal.h"
